@@ -1,0 +1,1 @@
+Exam Result Prediction using Logistic Regression is a machine learning method used to predict whether a student will Pass or Fail based on different factors.In this method, a logistic regression model analyzes student data such as attendance, study hours, assignment marks, and previous exam scores. The model learns the relationship between these factors and the final exam result.
