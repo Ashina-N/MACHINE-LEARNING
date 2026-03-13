@@ -1,0 +1,2 @@
+Weather prediction is a machine learning project that predicts conditions like rain or no rain using weather data such as temperature, humidity, wind speed, and atmospheric pressure. A dataset containing past weather records is used to train the model
+First, the data is collected and cleaned. Important features such as temperature, humidity, and wind speed are selected. Then different algorithms like KNN, Gaussian Naive Bayes, and Logistic Regression are used to train the model.
